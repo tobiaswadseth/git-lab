@@ -1,0 +1,11 @@
+commit 393ba9fb7cd3111fba4ea3ac8e9e5b018e1e73cd
+Author: Tobias <twadseth@icloud.com>
+Date:   Mon Oct 26 19:14:29 2020 +0100
+
+    Added git-log.txt
+
+commit 6eb103a11dc6258c517f3b663f54360e795ffc9b
+Author: Tobias <twadseth@icloud.com>
+Date:   Mon Oct 26 19:12:10 2020 +0100
+
+    Initial commit
